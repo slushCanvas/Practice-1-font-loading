@@ -32,6 +32,11 @@ h2{
     line-height: var(--line-hght);
 }
 
+.btn a {
+    text-decoration: none;
+    color: var(--main-txt-color);
+}
+
 .btn:hover {
     background-color: var(--btn-bg-color);
     color: var(--main-txt-color);
